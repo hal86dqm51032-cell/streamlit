@@ -1,0 +1,8 @@
+data.json
+__pycache__/
+*.pyc
+
+# 開発用メモ・骨組み（公開リポジトリには含めない）
+CLAUDE.md
+PROGRESS.md
+b_pages/
